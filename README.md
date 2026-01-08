@@ -2,7 +2,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://www.tensorflow.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 A comprehensive deep learning system for driver drowsiness detection using facial analysis. This project implements and compares three state-of-the-art CNN architectures: VGG16, DenseNet-121, and LSTM-CNN hybrid for real-time drowsiness detection.
 
@@ -176,15 +175,6 @@ facial-drowsiness-recognition-deep-learning/
 ├── Report.pdf
 ├── requirements.txt
 ├── README.md
-├── results/
-│   ├── model_performance_comparison.png
-│   ├── roc_curves.png
-│   ├── confusion_matrices.png
-│   └── robustness_analysis.png
-└── models/
-    ├── VGG16.h5
-    ├── DenseNet121.h5
-    └── LSTMCNN.h5
 ```
 
 ## 📝 Research Questions Addressed
@@ -254,10 +244,6 @@ The project includes comprehensive visualizations:
 - University of Southampton
 - Bachelor's Project (2023-2024)
 - Contact: [mukilan2101](https://github.com/mukilan2101)
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
